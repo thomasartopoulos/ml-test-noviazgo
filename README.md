@@ -1,6 +1,6 @@
 # ML Test de Noviazgo
 
-## Introduccion
+## Introducción
 
 El gobierno de la ciudad de Buenos Aires a traves del portal [data.buenosaires.gob.ar](https://data.buenosaires.gob.ar/) facilita la busqueda, acceso y descubrimiento a los datos que produce la ciudad, tambien incentiva la generacion de valor con los mismos. En este sentido, se disponibilizan el dataset [Test de Alerta sobre un noviazgo violento](https://data.buenosaires.gob.ar/dataset/test-alerta-sobre-noviazgo-violento) que contiene respuestas anonimas a una encuesta que busca concienciar a las personas respecto relaciones que pueden tender hacia la violencia. Esta encuesta esta compuesta por 13 preguntas que se pueden consultar en el [github del gobierno de la ciudad](https://github.com/datosgcba/test_alerta_noviazgo_violento). En este trabajo implementamos y presentamos un clasificador que puede predecir la respuesta de la pregunta 13 utilizando el resto de las preguntas, con la posibilidad de que en futuros trabajos se pueda enriquecer el clasificador con mas datos.
 
